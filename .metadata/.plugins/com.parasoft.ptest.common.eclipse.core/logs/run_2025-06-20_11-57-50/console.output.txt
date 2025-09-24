@@ -1,0 +1,63 @@
+INFO: DTP autoconfiguration: Using settings from server https://stinger.parasoft.com.pl:8443 for project Default Project
+
+The following settings are no longer supported:
+   - report.location_details
+
+DTP Services: Loading available services from https://stinger.parasoft.com.pl:8443/grs/api/v1.9/dtpServices
+DTP Services: Registering the following services: [projects, staticAnalysisViolationsMetadataUpdate, dynamicAnalysisTestCasesMetadata, testConfigurationsExtended, staticAnalysisUnbranchedViolationsMetadata, rules, tools, buildReviews, priorities, testActions, staticAnalysisViolations, builds, staticAnalysisFindings, unbranchedResourcesSearch, linkedAppRequirements, reportedResourcesScmRepositories, localSettings, coverage, staticAnalysisViolationsMetadata, dynamicAnalysisTestCases, filters, ruleMapResources, license, dynamicAnalysisTestCasesMetadataUpdate, testConfigurationsUpload, testConfigurations]
+DTP Services: Loading available services from https://stinger.parasoft.com.pl:8443/grs/api/v1/dtpServices
+DTP Services: Registering the following services: [dataCollectorV2, testConfigurationsExtended, existingLocalSourceCopy, rules, tools, changeExplorer, priorities, staticAnalysisViolations, builds, metricsExplorer, violationsExplorer, reportedResourcesScmRepositories, localSettings, coverage, staticAnalysisViolationsMetadata, dynamicAnalysisTestCases, testExplorer, licenseServerV1.1, filters, dataCollector, coverageExplorer, ruleMapResources, license, testConfigurations, licenseServer, reportCenter]
+License: Initializing network license for C++test 10.7
+License: Activating Custom Edition
+License: Checking features
+License: Main C++test feature: License is valid
+License: Static Analysis feature: License is valid
+License: Automation feature: License is valid
+License: DTP Publish feature: License is valid
+License: Unit Test feature: License is valid
+License: Coverage feature: License is valid
+License: Desktop Command Line feature: License is valid
+License: AUTOSAR Rules feature: License is valid
+License: CWE Rules feature: License is valid
+License: DISA STIG Rules feature: License is valid
+License: HIC++ Rules feature: License is valid
+License: JSF Rules feature: License is valid
+License: MISRA Rules feature: License is valid
+License: MISRA C 2012 Rules feature: License is valid
+License: OWASP Rules feature: License is valid
+License: Security Rules feature: License is valid
+License: SEI CERT C Rules feature: License is valid
+License: SEI CERT C++ Rules feature: License is valid
+License: Code Dependency Export feature: License is valid
+License: Flow Analysis feature: License is valid
+License: Activation finished: License is valid
+License: Machine id WIN32-1815e92e (Default)
+INFO: Scope not specified: No resources specified as scope, using all workspace projects as selected scope.
+Sending usage data is disabled, use usage.reporting.enabled to enable
+> [0%] Running: Scope
+> [3%] Computing scope
+>>    [3%] Initializing
+>>    [5%] Refreshing workspace
+>>    [9%] Building
+>>    [13%] Finding files
+>>    [14%] Computing selection for
+>>    [15%] Finding files
+>>    [17%] Applying scope filters
+>>    [19%] Computing lines to check
+> [21%] Preparing options
+>>    [25%] Reporting scope results
+Total Files: 0
+Source Files to Check: 0
+Total Source Lines: 0
+Source Lines to Check: 0
+Test Data Files: ---
+Excluded Files: 0
+> [31%] Running: Generation
+>>>         Generating and storing session data ...
+Files Checked: 0/0
+Test Files Generated: 0
+Test Cases Generated: 0
+Files Skipped: 
+> [63%] Finished
+> [80%] Generating reports
+> [100%] Done
