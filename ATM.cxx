@@ -13,6 +13,11 @@ void ATM::viewAccount(int accountNumber, string password)
     {
         myDisplay->showInfoToUser("Invalid account");
     }
+    //below change by stingerBoo
+    if ( !(myCurrentAccount = myBank->getAccount(accountNumber, password)) )
+    {
+        myDisplay->showInfoToUser("Invalid account");
+    }
 }
 
 void ATM::fillUserRequest(UserRequest request, double amount)
