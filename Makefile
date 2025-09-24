@@ -5,6 +5,7 @@ CFLAGS=-g
 OBJ_DIR=obj
 
 OBJ = $(OBJ_DIR)/ATM.o \
+	  $(OBJ_DIR)/ATM2.o \
 	  $(OBJ_DIR)/Bank.o \
 	  $(OBJ_DIR)/BaseDisplay.o \
 	  $(OBJ_DIR)/Account.o
