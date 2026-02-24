@@ -4,7 +4,6 @@
 ATM::ATM(Bank *bank, BaseDisplay *display) {
 	myBank = bank;
 	myDisplay = display;
-	myCurrentAccount = new Account();
 }
 
 void ATM::viewAccount(int accountNumber, string password) {
@@ -16,20 +15,4 @@ void ATM::viewAccount(int accountNumber, string password) {
 		myDisplay->showInfoToUser("Invalid account");
 		//
 	}
-	if (!(myCurrentAccount = myBank->getAccount(accountNumber, password))) {
-		myDisplay->showInfoToUser("Invalid account");
-		//
-	}
-	if (!(myCurrentAccount = myBank->getAccount(accountNumber, password))) {
-		myDisplay->showInfoToUser("Invalid account");
-		//
-	}
-	if (!(myCurrentAccount = myBank->getAccount(accountNumber, password))) {
-		myDisplay->showInfoToUser("Invalid account");
-		//
-	}
-	if (!(myCurrentAccount = myBank->getAccount(accountNumber, password))) {
-			myDisplay->showInfoToUser("Invalid account");
-			//
-		}
 }
