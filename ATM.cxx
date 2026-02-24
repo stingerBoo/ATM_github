@@ -5,6 +5,7 @@ ATM::ATM(Bank* bank, BaseDisplay* display)
 {
     myBank = bank;
     myDisplay = display;
+    myCurrentAccount = new Account();
 }
 
 void ATM::viewAccount(int accountNumber, string password)

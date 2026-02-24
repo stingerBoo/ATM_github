@@ -4,57 +4,53 @@
 #include <string>
 using namespace std;
 
-class Account
-{
-    public:
-    
-        Account()
-        {
-            myAccountNumber = 0;
-            myBalance = 0.0;
-        }
-        //Account(double initial)
-       // {
-           // myAccountNumber = 0;
-           // myBalance = initial;
-       // }
-        Account(double count)
-               {
-                   myAccountNumber = 0;
-                   myBalance = count;
-               }
+class Account {
+public:
 
-        double getBalance()
-        {
-            return (myBalance);
-        }
-        int getAccountNumber() const
-        {
-            return (myAccountNumber);
-        }
+	Account() {
+		myAccountNumber = 0;
+		myBalance = 0.0;
+	}
+	//Account(double initial)
+	// {
+	// myAccountNumber = 0;
+	// myBalance = initial;
+	// }
+	Account(double count) {
+		myAccountNumber = 0;
+		myBalance = count;
+	}
+	Account(double count, double count2) {
+		myAccountNumber = 0;
+		myBalance = count2;
+	}
 
-        void setAccountNumber(int num)
-        {
-            myAccountNumber = num;
-        }
-        void setPassword(const char* password)
-        {
-            myPassword = password;
-        }
-        const char* getPassword()
-        {
-            return (myPassword.data());
-        }   
- 
-        double deposit(double amount);
-        
-        double debit(double amount);
+	double getBalance() {
+		return (myBalance);
+	}
+	int getAccountNumber() const {
+		return (myAccountNumber);
+	}
 
-    private:
+	void setAccountNumber(int num) {
+		myAccountNumber = num;
+	}
+	void setPassword(const char *password) {
+		myPassword = password;
+	}
+	const char* getPassword() {
+		return (myPassword.data());
+	}
 
-        int myAccountNumber;
-        double myBalance;
-        string myPassword;
+	double deposit(double amount);
+
+	double debit(double amount);
+
+private:
+
+	int myAccountNumber;
+	double myBalance;
+	string myPassword;
 };
 
 #endif // ACCOUNT_HXX
