@@ -1,6 +1,6 @@
 #include "ATM.hxx"
 #include "BaseDisplay.hxx"
-/* parasoft off */
+
 ATM::ATM(Bank* bank, BaseDisplay* display)
 {
     myBank = bank;
