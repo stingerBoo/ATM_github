@@ -18,6 +18,11 @@ class Account
             myAccountNumber = 0;
             myBalance = initial;
         }
+        Account(double initial, int count)
+               {
+                   myAccountNumber = 0;
+                   myBalance = initial+count;
+               }
 
         double getBalance()
         {
