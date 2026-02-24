@@ -1,5 +1,5 @@
 ------- cpptestscan v.10.7.2.20250514B4368 (cpptesttrace) -------
-working_dir=d:\workspace\2025.1\ATM_github
+working_dir=d:\workspace\cpptest\2025.1\ATM_github
 project_name=ATM_github
 arg=C:\cygwin64\bin\g++.exe
 arg=-g
@@ -9,7 +9,7 @@ arg=obj/ATM.o
 arg=-c
 arg=ATM.cxx
 ------- cpptestscan v.10.7.2.20250514B4368 (cpptesttrace) -------
-working_dir=d:\workspace\2025.1\ATM_github
+working_dir=d:\workspace\cpptest\2025.1\ATM_github
 project_name=ATM_github
 arg=C:\cygwin64\bin\g++.exe
 arg=-g
@@ -19,7 +19,7 @@ arg=obj/ATM2.o
 arg=-c
 arg=ATM2.cxx
 ------- cpptestscan v.10.7.2.20250514B4368 (cpptesttrace) -------
-working_dir=d:\workspace\2025.1\ATM_github
+working_dir=d:\workspace\cpptest\2025.1\ATM_github
 project_name=ATM_github
 arg=C:\cygwin64\bin\g++.exe
 arg=-g
@@ -29,7 +29,7 @@ arg=obj/Bank.o
 arg=-c
 arg=Bank.cxx
 ------- cpptestscan v.10.7.2.20250514B4368 (cpptesttrace) -------
-working_dir=d:\workspace\2025.1\ATM_github
+working_dir=d:\workspace\cpptest\2025.1\ATM_github
 project_name=ATM_github
 arg=C:\cygwin64\bin\g++.exe
 arg=-g
@@ -39,7 +39,7 @@ arg=obj/BaseDisplay.o
 arg=-c
 arg=BaseDisplay.cxx
 ------- cpptestscan v.10.7.2.20250514B4368 (cpptesttrace) -------
-working_dir=d:\workspace\2025.1\ATM_github
+working_dir=d:\workspace\cpptest\2025.1\ATM_github
 project_name=ATM_github
 arg=C:\cygwin64\bin\g++.exe
 arg=-g
@@ -49,7 +49,7 @@ arg=obj/Account.o
 arg=-c
 arg=Account.cxx
 ------- cpptestscan v.10.7.2.20250514B4368 (cpptesttrace) -------
-working_dir=d:\workspace\2025.1\ATM_github
+working_dir=d:\workspace\cpptest\2025.1\ATM_github
 project_name=ATM_github
 arg=C:\cygwin64\bin\g++.exe
 arg=-g
@@ -59,7 +59,7 @@ arg=obj/ATM.o
 arg=-c
 arg=ATM.cxx
 ------- cpptestscan v.10.7.2.20250514B4368 (cpptesttrace) -------
-working_dir=d:\workspace\2025.1\ATM_github
+working_dir=d:\workspace\cpptest\2025.1\ATM_github
 project_name=ATM_github
 arg=C:\cygwin64\bin\g++.exe
 arg=-g
@@ -69,7 +69,7 @@ arg=obj/ATM2.o
 arg=-c
 arg=ATM2.cxx
 ------- cpptestscan v.10.7.2.20250514B4368 (cpptesttrace) -------
-working_dir=d:\workspace\2025.1\ATM_github
+working_dir=d:\workspace\cpptest\2025.1\ATM_github
 project_name=ATM_github
 arg=C:\cygwin64\bin\g++.exe
 arg=-g
@@ -79,7 +79,7 @@ arg=obj/Bank.o
 arg=-c
 arg=Bank.cxx
 ------- cpptestscan v.10.7.2.20250514B4368 (cpptesttrace) -------
-working_dir=d:\workspace\2025.1\ATM_github
+working_dir=d:\workspace\cpptest\2025.1\ATM_github
 project_name=ATM_github
 arg=C:\cygwin64\bin\g++.exe
 arg=-g
@@ -89,7 +89,7 @@ arg=obj/BaseDisplay.o
 arg=-c
 arg=BaseDisplay.cxx
 ------- cpptestscan v.10.7.2.20250514B4368 (cpptesttrace) -------
-working_dir=d:\workspace\2025.1\ATM_github
+working_dir=d:\workspace\cpptest\2025.1\ATM_github
 project_name=ATM_github
 arg=C:\cygwin64\bin\g++.exe
 arg=-g
