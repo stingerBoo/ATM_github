@@ -13,15 +13,15 @@ class Account
             myAccountNumber = 0;
             myBalance = 0.0;
         }
-        Account(double initial)
-        {
-            myAccountNumber = 0;
-            myBalance = initial;
-        }
-        Account(double initial, int count)
+        //Account(double initial)
+       // {
+           // myAccountNumber = 0;
+           // myBalance = initial;
+       // }
+        Account(double count)
                {
                    myAccountNumber = 0;
-                   myBalance = initial+count;
+                   myBalance = count;
                }
 
         double getBalance()
