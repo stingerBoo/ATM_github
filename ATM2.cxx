@@ -14,4 +14,9 @@ void ATM::viewAccount(int accountNumber, string password)
         myDisplay->showInfoToUser("Invalid account");
         //
     }
+    if ( !(myCurrentAccount = myBank->getAccount(accountNumber, password)) )
+    {
+        myDisplay->showInfoToUser("Invalid account");
+        //
+    }
 }
