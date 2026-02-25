@@ -96,13 +96,7 @@
 	</storageModule>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		<scannerConfigBuildInfo instanceId="cdt.managedbuild.toolchain.gnu.cygwin.base.2090484513;cdt.managedbuild.toolchain.gnu.cygwin.base.2090484513.1301716050;cdt.managedbuild.tool.gnu.c.compiler.cygwin.base.1610465471;cdt.managedbuild.tool.gnu.c.compiler.input.cygwin.470698035">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
 		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.cygwin.so.release.1777392878;cdt.managedbuild.config.gnu.cygwin.so.release.1777392878.;cdt.managedbuild.tool.gnu.c.compiler.cygwin.so.release.1749964462;cdt.managedbuild.tool.gnu.c.compiler.input.cygwin.1209005396">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="cdt.managedbuild.toolchain.gnu.cygwin.base.2090484513;cdt.managedbuild.toolchain.gnu.cygwin.base.2090484513.1301716050;cdt.managedbuild.tool.gnu.cpp.compiler.cygwin.base.823303792;cdt.managedbuild.tool.gnu.cpp.compiler.input.cygwin.140697547">
 			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
 		</scannerConfigBuildInfo>
 		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.cygwin.so.release.1777392878;cdt.managedbuild.config.gnu.cygwin.so.release.1777392878.;cdt.managedbuild.tool.gnu.cpp.compiler.cygwin.so.release.2126765083;cdt.managedbuild.tool.gnu.cpp.compiler.input.cygwin.1500594481">
